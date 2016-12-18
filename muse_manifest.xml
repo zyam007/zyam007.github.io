@@ -1,0 +1,75 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="zyam007.github.io" resolutions="1x" timestamp="1482099734572">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4003647560" ref="neptune:uranus:venus:extras:planets:jupiter:mercury:mars:index:saturn:contact-us:earth"/>
+    <file name="neptune.css" crc="17366904" ref="neptune"/>
+    <file name="uranus.css" crc="4252103687" ref="uranus"/>
+    <file name="venus.css" crc="4019256969" ref="venus"/>
+    <file name="extras.css" crc="3933703770" ref="extras"/>
+    <file name="planets.css" crc="3888909776" ref="planets"/>
+    <file name="jupiter.css" crc="160679493" ref="jupiter"/>
+    <file name="mercury.css" crc="4156092501" ref="mercury"/>
+    <file name="mars.css" crc="237407872" ref="mars"/>
+    <file name="index.css" crc="3940223750" ref="index"/>
+    <file name="saturn.css" crc="364769109" ref="saturn"/>
+    <file name="contact-us.css" crc="521793237" ref="contact-us"/>
+    <file name="earth.css" crc="267995916" ref="earth"/>
+  </folder>
+  <folder name="assets">
+    <file name="bensound-littleidea.mp3" crc="3880671033" seo="true" mt="1482097586000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="museutils.js" crc="163421577" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="whatinput.js" crc="86476730" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="museconfig.js" crc="36584860" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="require.js" crc="244322403" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="webpro.js" crc="3848665353" ref="contact-us"/>
+    <file name="form_check.php" crc="158155501" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact-us"/>
+    <file name="form_process.php" crc="4078697226" ref="contact-us"/>
+    <file name="form-u859.php" crc="4059421267" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="animated-solarsystem1.gif" crc="4084022044" seo="true" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="u538-26.png" crc="4200389497" ref="index"/>
+    <file name="stars_texture2949.jpg" crc="3812742849" ref="index:planets:contact-us:venus:earth:mars:mercury:neptune:saturn:jupiter:uranus:extras"/>
+    <file name="u747-4.png" crc="146351886" ref="planets"/>
+    <file name="mercury-planet-animation-5.gif" crc="423875019" seo="true" ref="planets"/>
+    <file name="venus-planet-animation-2.gif" crc="4208095308" seo="true" ref="planets"/>
+    <file name="earth_like_planet_animation_by_andri12.gif" crc="4102551212" seo="true" ref="planets"/>
+    <file name="u757-4.png" crc="447598758" ref="planets"/>
+    <file name="mars-planet-animation-7.gif" crc="3907936734" seo="true" ref="planets"/>
+    <file name="saturn-planet-animation-6.gif" crc="357121625" seo="true" ref="planets"/>
+    <file name="jupiter-planet-animation-10.gif" crc="3785890100" seo="true" ref="planets"/>
+    <file name="u769-4.png" crc="4097665008" ref="planets"/>
+    <file name="uranus-planet-animation-4.gif" crc="3861224931" seo="true" ref="planets"/>
+    <file name="neptune-planet-animation-1.gif" crc="288734569" seo="true" ref="planets"/>
+    <file name="u911-4.png" crc="3790984598" ref="contact-us"/>
+    <file name="u829-16.png" crc="478140881" ref="venus"/>
+    <file name="u835-16.png" crc="4101299201" ref="earth"/>
+    <file name="u832-14.png" crc="3865842984" ref="mars"/>
+    <file name="u841-15.png" crc="3922521418" ref="mercury"/>
+    <file name="u847-18.png" crc="3777872439" ref="neptune"/>
+    <file name="u850-15.png" crc="36220088" ref="saturn"/>
+    <file name="u853-16.png" crc="330898362" ref="jupiter"/>
+    <file name="u856-15.png" crc="3982436301" ref="uranus"/>
+    <file name="u611-4.png" crc="54778700" ref="extras"/>
+  </folder>
+  <file name="index.html" crc="33472989" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="planets.html" crc="4284865273" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="contact-us.html" crc="4044351987" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="venus.html" crc="170068310" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="earth.html" crc="409496098" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="mars.html" crc="3790985657" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="mercury.html" crc="117307056" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="neptune.html" crc="3988530547" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="saturn.html" crc="360145031" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="jupiter.html" crc="147550231" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="uranus.html" crc="3986866921" seo="true" mt="1482098693415" redirect="true"/>
+  <file name="extras.html" crc="4057433577" seo="true" mt="1482098693415" redirect="true"/>
+</manifest>
